@@ -17,6 +17,8 @@ const Trial2 = () => {
 
       hellooooooo...........!!!!!
       add things ...!!
+      checking ...!!
+      working ...!!
 
     </div>
   )
